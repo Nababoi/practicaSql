@@ -161,7 +161,6 @@
               <td><?php echo $fila["nombreMateria"];?></td>
               <td><a href="Vistas/V_FormEditarProfesorMateria.php?nombreMateria=<?php echo $fila['nombreMateria'];?>" class="btn btn-secondary">Modificar</a></td>
 
-
             </tr>
             <?php } ?>
           </tbody>
